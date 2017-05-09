@@ -7,7 +7,7 @@ package pack.model;
 
 /**
  *
- * @author Smktelkom
+ * @author geraldjunha
  */
 public class m_toko {
 public String Nama_Barang, Jenis, Harga, Kategori;

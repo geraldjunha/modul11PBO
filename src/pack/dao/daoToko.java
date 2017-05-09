@@ -20,7 +20,7 @@ import pack.model.m_toko;
 
 /**
  *
- * @author Smktelkom
+ * @author geraldjunha
  */
 public class daoToko implements implementToko{
  Connection connection;

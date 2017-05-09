@@ -24,7 +24,7 @@ import pack.model.m_toko;
 
 /**
  *
- * @author Smktelkom
+ * @author geraldjunha
  */
 public class home extends javax.swing.JFrame {
 

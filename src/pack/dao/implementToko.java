@@ -10,7 +10,7 @@ import pack.model.m_toko;
 
 /**
  *
- * @author Smktelkom
+ * @author geraldjunha
  */
 public interface implementToko {
     public void TampilData(m_toko a);
